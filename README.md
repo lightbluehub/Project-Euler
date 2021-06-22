@@ -1,2 +1,2 @@
 # ProjectEuler
-Project 1 (2019), Projecr Euler
+Project 1 (2019), ProjectEuler
